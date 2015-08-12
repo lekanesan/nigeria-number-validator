@@ -1,3 +1,5 @@
+<?php
+
 /**
  * Validate Nigerian phone numbers
  * @param type $number
